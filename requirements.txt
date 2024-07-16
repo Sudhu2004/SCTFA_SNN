@@ -1,6 +1,5 @@
 segmentation_models_pytorch
 pandas
-sklearn
 streamlit
 torch
 torchvision
