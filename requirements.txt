@@ -1,0 +1,14 @@
+segmentation_models_pytorch
+pandas
+sklearn
+streamlit
+torch
+torchvision
+snntorch
+scikit-learn
+matplotlib
+numpy
+Pillow
+opencv-python
+seaborn
+tqdm
